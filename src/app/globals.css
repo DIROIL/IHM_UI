@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+/* 
+  background: black;  
+  background-image:
+      radial-gradient(circle at 70% 56%, rgba(16, 16, 17, 0.671) 170px, transparent -18%),
+      radial-gradient(circle at 64% 70%, rgba(29, 37, 66, 0.733) -20px, transparent 20%),
+      radial-gradient(circle at 68% 52%, rgba(10, 10, 10, 0) 130px,rgba(16, 16, 17, 0.329) 180px, transparent 200px);
+      radial-gradient(circle at 68% 50%, rgba(16, 16, 17, 0.452) 190px, transparent -18%) ; */
+}
+body.page2 {
+  background-color: white; 
+}
